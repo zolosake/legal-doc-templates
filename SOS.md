@@ -1,6 +1,6 @@
 # Scope of Service
 
-Dieses Dokument beschreibt die Tätigkeiten pro Bereich, die vom Auftragnehmer (JI) abgedeckt werden. Es soll dementsprechend der Auftraggeberin dabei helfen, welche Belange an JI herangetragen werden können, bzw. wie JI in ihrem Projekt integriert ist.
+Dieses Dokument beschreibt die Tätigkeiten pro Bereich, die vom Auftragnehmer (JI) abgedeckt werden. Es soll dementsprechend der Auftraggeberin dabei helfen, welche Belange an JI herangetragen werden können, bzw. einzuordnen, wie JI in ihrem Projekt integriert ist.
 
 ## Tätigkeiten nach Bereich
 
