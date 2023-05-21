@@ -1,47 +1,38 @@
 # Scope of Service
 
-Dieses Dokument definiert die Tätigkeitsbereiche, die vom Auftragnehmer (JI) abgedeckt werden. Die detaillierten Dienstleistungen innerhalb dieser Tätigkeitsbereiche ergeben sich durch die Erstellung und Ausarbeitung der Github-Issues.
+Dieses Dokument beschreibt die Tätigkeiten pro Bereich, die vom Auftragnehmer (JI) abgedeckt werden. Es soll dementsprechend der Auftraggeberin dabei helfen, welche Belange an JI herangetragen werden können, bzw. wie JI in ihrem Projekt integriert ist.
 
-Zusätzlich hält dieses Dokument fest, welche Tätigkeitsbereiche nicht abgedeckt werden, bei Bedarf und nach Absprache aber hinzugefügt werden können.
-
-## Abgedeckte Tätigkeitsbereiche
+## Tätigkeiten nach Bereich
 
 ### Design
 
 #### UI/UX
 
-- Beratung bei der Ausarbeitung von Designlösungen
+- Beratung bei der Ausarbeitung von UI-/UX-Lösungen
 
 ### Entwicklung (Realisierung, Integration)
 
 #### Frontend
 
-- Realisierung und Debugging von Designlösungen
+- Realisierung und Debugging von UI-/UX-Lösungen
 - Realisierung benutzerdefinierter Eingabefelder für die Inhaltsverwaltung
 - Integration von Drittanbieterdiensten
-- ...
 
 #### Backend
 
 - Design, Realisierung und Debugging benutzerdefinierter APIs
-- Design, Realisierung und Debugging benutzerdefinierter Datenbanken.
-- ...
+- Design, Realisierung und Debugging benutzerdefinierter Datenbanken
 
 ### Support
 
-- Einfache Hilfe- und Service-Desk-Leistungen innerhalb der abgedeckten Tätigkeitsbereiche
-- Technischer Support innerhalb der abgedeckten Tätigkeitsbereiche
-- ...
+- Einfache Hilfe- und Service-Desk-Leistungen innerhalb der abgedeckten Tätigkeiten
+- Technischer Support innerhalb der abgedeckten Tätigkeiten
+- Dokumentation und Training jeglicher Anwendungen innerhalb der abgedeckten Tätigkeiten
 
 ### Qualitätskontrolle
 
 - Einmalige Qualitätskontrolle pro Auftrag nach Gutdünken
-- ...
 
-## Nicht abgedeckte Tätigkeitsbereiche
+### Projektverwaltung
 
-- Content: Die Erstellung von Inhalten, wie Text, Bilder, Videos, Grafiken, etc.
-- Online-Marketing: Online-Werbung, SEO, SEM, Social-Media-Marketing, etc.
-- Projekt-Management
-- Kontinuierliche Qualitätskontrolle: Regelmässige Tests betreffend Funktionalität, Cross-Browser und Gerätekompatibilität, Responsive Design, Usability, Performance, Inhalt, etc.
-- ...
+- Organisation und Pflege des Auftragskataloges für JI (Github-Issues)
