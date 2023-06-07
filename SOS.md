@@ -31,7 +31,7 @@ Dieses Dokument beschreibt die Tätigkeiten pro Bereich, die vom Auftragnehmer (
 
 ### Qualitätskontrolle
 
-- Einmalige Qualitätskontrolle pro Auftrag nach Gutdünken
+- Reaktiv pro Auftrag
 
 ### Projektverwaltung
 
