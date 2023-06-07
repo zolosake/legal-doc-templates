@@ -31,7 +31,7 @@ Dieses Dokument beschreibt die Tätigkeiten pro Bereich, die vom Auftragnehmer (
 
 ### Qualitätskontrolle
 
-- Reaktiv pro Auftrag
+- Reaktiv und manuell pro Auftrag
 
 ### Projektverwaltung
 
